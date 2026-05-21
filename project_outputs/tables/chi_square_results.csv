@@ -1,0 +1,4 @@
+"Test","Chi_Square","df","p_value","Significant"
+"CO2 Group vs Urban Group",435.902,4,0,"Yes ***"
+"CO2 Group vs Time Period",11.474,4,0.02172,"Yes ***"
+"CO2 Group vs Energy Group",870.43,4,0,"Yes ***"

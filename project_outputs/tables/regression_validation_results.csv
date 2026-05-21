@@ -1,0 +1,6 @@
+"Model","RMSE","MAE","R2"
+"Linear Regression",0.2393,0.1811,0.9409
+"Ridge Regression",0.2497,0.1897,0.9356
+"Lasso Regression",0.2338,0.1748,0.9436
+"RF Regression",0.1689,0.1041,0.9705
+"XGBoost Regression",0.1551,0.1029,0.9752

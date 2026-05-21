@@ -1,0 +1,10 @@
+"Variable","Outlier_Count","Outlier_Pct"
+"GDP_growth",12,2
+"CO2_per_capita",11,1.9
+"CO2_total_tons",7,1.2
+"Population",23,3.9
+"Urban_Pop_Pct",0,0
+"Fertility_Rate",3,0.5
+"Median_Age",5,0.9
+"Density",10,1.7
+"Energy_Per_Capita_kWh",15,2.6

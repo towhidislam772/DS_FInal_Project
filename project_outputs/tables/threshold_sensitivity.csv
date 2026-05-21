@@ -1,0 +1,4 @@
+"Threshold","Cutoff","Pct_High"
+"50th pct",3.52,50
+"75th pct (USED)",8.41,25
+"90th pct",19.107,10

@@ -1,0 +1,14 @@
+"Feature","Mean","SD"
+"Energy_Per_Capita_kWh",32763.092,46276.4392
+"Urban_Pop_Pct",56.2075,26.6296
+"Yearly_Change_Pct",2.264,1.7746
+"Median_Age",24.9216,6.956
+"GDP_growth",4.2585,6.0777
+"Fertility_Rate",3.1383,1.7095
+"Density",845.6214,2803.9052
+"log_Population",16.3393,1.9116
+"log_Energy",9.4093,1.5825
+"log_Density",4.818,1.7688
+"Energy_x_Urban",564.317,324.015
+"GDP_x_Urban",221.8214,410.0003
+"Urban_x_Fert",156.8524,102.3681

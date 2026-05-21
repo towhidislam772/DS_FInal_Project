@@ -1,0 +1,12 @@
+"Feature","Coefficient"
+"log_Energy",0.69717
+"Energy_Per_Capita_kWh",0.15699
+"log_Density",-0.15176
+"Yearly_Change_Pct",0.12544
+"Energy_x_Urban",0.09322
+"Median_Age",0.08311
+"Fertility_Rate",0.06158
+"GDP_x_Urban",-0.04739
+"GDP_growth",0.03349
+"log_Population",-0.01459
+"Density",-0.01444

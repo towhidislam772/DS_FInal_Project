@@ -1,0 +1,4 @@
+"CV_Method","AUC_ROC","Sensitivity","Specificity"
+"3-Fold CV",0.9801,0.9709,0.9773
+"5-Fold CV",0.9848,0.9741,0.987
+"10-Fold CV",0.9924,0.9709,0.9871
